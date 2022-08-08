@@ -1,42 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc99878b-13de-47e7-9a5b-10f4dec4c702" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/img2022-08-03-1659524501295.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/img2022-08-05-1659680842100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/img2022-08-05-1659680871238.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/img2022-08-08-1659956809218.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/img2022-08-08-1659958728609.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/img2022-08-08-1659958979507.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/img2022-08-08-1659959047011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/img2022-08-08-1659959295828.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot/img2022-08-08-1659959794334.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/ProjectConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epamservice/CalculatorServicePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epamservice/PropertyReadPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epamservice/TestReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ScreenShot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WebDriverSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CalculatorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BasePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/CalculatorPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/browser.properties.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/dev.properties.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/qa.properties.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2CppKE7WZIiDr44gnx4ZPce4OAQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -72,12 +48,36 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Vishalakshi/TA_Practical_Tasks/FrameWork_Task5",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.CalculatorPageTest (1)">
+    <configuration name="CalculatorPageTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameWork_Task5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CalculatorPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Individual_Task_5" />
       <extension name="coverage">
@@ -97,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CalculatorPageTest (1)" />
         <item itemvalue="TestNG.CalculatorPageTest" />
       </list>
     </recent_temporary>
